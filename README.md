@@ -1,5 +1,5 @@
 # MSAPer | CVE-2023-3076 - MStore API 
-Automatic Mass Tool for check and exploiting vulnerability in CVE-2023-3076 - MStore API < 3.9.9 - Unauthenticated Privilege Escalation (Mass Add Admin)<br><br>
+Automatic Mass Tool for check and exploiting vulnerability in CVE-2023-3076 - MStore API < 3.9.9 - Unauthenticated Privilege Escalation (Mass Add Admin + PHP File Upload)<br><br>
 <img src="https://github.com/im-hanzou/MSAPer/blob/main/image/msaper.png" width=600></img><br>
 - Using GNU Parallel. You must have parallel for run this tool.<br>
 - <b>If you found error like "$'\r': command not found" just do "dos2unix msaper.sh"</b>
